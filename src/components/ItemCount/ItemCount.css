@@ -1,0 +1,13 @@
+.botones{
+    display: flex;
+justify-content: center;
+}
+button{
+   margin-bottom: 1em;
+    margin: 0.5em;
+}
+h5{
+   margin: 0.5em;
+   font-weight: bold;
+   font-size: 1.2em;
+}

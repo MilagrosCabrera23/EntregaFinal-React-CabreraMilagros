@@ -1,0 +1,13 @@
+.mainContainer {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+.footerContainer {
+  background-color: blueviolet;
+  color: white;
+  font-weight: 500;
+  font-size: 1.2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

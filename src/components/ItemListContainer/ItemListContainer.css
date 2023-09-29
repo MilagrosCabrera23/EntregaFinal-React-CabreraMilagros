@@ -1,0 +1,47 @@
+/* carta de boostrap */
+.cartas{
+    width: 18rem;
+
+}
+
+/*textos*/
+.greeting {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1.3em;
+    font-size: 1.3em;
+}
+
+.title-produ {
+    color: blue;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.Prod {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 1em;
+    object-fit: cover;
+}
+
+.title-name {
+    font-weight: bold;
+    font-size: 1em;
+    color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bold {
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+.text-center {
+    margin: 1em;
+}

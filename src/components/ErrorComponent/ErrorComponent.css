@@ -1,0 +1,29 @@
+.h2Error {
+    text-align: center;
+    align-items: center;
+}
+
+.p-Error {
+    font-size: 0.4em;
+    color: blue;
+    text-align: center;
+    margin: 1em;
+
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+}
+
+.error404 {
+   font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    padding: 0.3em;
+    color: burlywood;
+    align-items: center;
+    justify-content: center;
+}
+
