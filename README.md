@@ -11,7 +11,7 @@ Trendy-Threads es una tienda en línea de ropa organizada por categorías. Permi
 - Estilo moderno con React Bootstrap.  
 - Carga asíncrona de contenido con loaders atractivos.
 
-## Instalación **  
+## Instalación 
 
 Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
 
@@ -34,18 +34,18 @@ El proyecto debería estar corriendo en http://localhost:3000
 
 [@milagrosCabrera23]https://github.com/MilagrosCabrera23)
 
-## **  🛠 Skills**  
+##   🛠 Skills
 React,Javascript, HTML, CSS...
 
 
-##**   🔗 Librerias Utilizadas:**  
+##  🔗 Librerias Utilizadas:
 
-Font Awesome Icons: https://fontawesome.com/v4/icons/
+- Font Awesome Icons: https://fontawesome.com/v4/icons/
 
-React:https://es.react.dev/ 
+- React:https://es.react.dev/ 
 
-React Router:https://reactrouter.com/ 
+- React Router:https://reactrouter.com/ 
 
-React Bootstrap:https://react-bootstrap.netlify.app/
+- React Bootstrap:https://react-bootstrap.netlify.app/
 
-UI Ball Loaders: https://www.npmjs.com/package/@uiball/loaders 
+- UI Ball Loaders: https://www.npmjs.com/package/@uiball/loaders 
